@@ -1,4 +1,4 @@
-# [Omnifood] (https://omnifood-kuntal.netlify.app/)
+# [Omnifood](https://omnifood-kuntal.netlify.app/)
 
 ## About Omnifood
 
@@ -129,4 +129,4 @@ Recipe directory
 Help center
 Privacy & terms
 
-# [Omnifood] (https://omnifood-kuntal.netlify.app/)
+# [Omnifood](https://omnifood-kuntal.netlify.app/)
